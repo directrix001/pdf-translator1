@@ -3,4 +3,4 @@ pip install streamlit
  pip install streamlit
 pip install PyMuPDF
 pip install googletrans
-streamlit run hi.py
+streamlit run hello.py
